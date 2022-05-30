@@ -244,3 +244,7 @@ This warning is visible only on development and totally harmless. This occurs to
 
 ## License
 MERN is released under the [MIT License](http://www.opensource.org/licenses/MIT).
+
+## Test CircleCI - WO
+My slight change to test to verify that a commit triggers a build
+
